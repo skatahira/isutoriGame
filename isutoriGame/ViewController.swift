@@ -14,6 +14,8 @@ class ViewController: UIViewController, MPMediaPickerControllerDelegate {
     @IBOutlet weak var musicImage: UIImageView!
     @IBOutlet weak var musicTitleLabel: UILabel!
     @IBOutlet weak var artistLabel: UILabel!
+    @IBOutlet weak var pickBtn: UIButton!
+    @IBOutlet weak var startBtn: UIButton!
     
     // インスタンス作成
     var player: MPMusicPlayerController!
@@ -23,22 +25,25 @@ class ViewController: UIViewController, MPMediaPickerControllerDelegate {
         
         // プレイヤーモードを設定
         player = MPMusicPlayerController.applicationMusicPlayer
-        
-        // 再生中のItemが変わった時に通知を受け取る
-//        let notificationCenter = NotificationCenter.default
-//        notificationCenter.addObserver(
-//            self,
-//            selector: View.nowPlayingItemChanged(_:),
-//            name: MPMusicPlayerControllerNowPlayingItemDidChangeNotification, object: player)
+
         // 通知の有効化
         player.beginGeneratingPlaybackNotifications()
+        
+        // ボタンの角を丸くする
+        pickBtn.layer.cornerRadius = 10.0
+        startBtn.layer.cornerRadius = 10.0
+        
+        //青にする
+        self.musicImage.layer.borderColor = UIColor.black.cgColor
+        //線の太さ
+        self.musicImage.layer.borderWidth = 2
         
     }
     
     // 再生ボタン押下
     @IBAction func didClickPlayBtn(_ sender: Any) {
         // 5秒から60秒の間のランダムな数字を作成
-        let musicStopTime = Double.random(in: 5 ... 60)
+        let musicStopTime = Double.random(in: 10 ... 60)
         // 音楽を再生する
         player.play()
         // ランダムな秒数経過後に実行する処理
@@ -55,22 +60,13 @@ class ViewController: UIViewController, MPMediaPickerControllerDelegate {
         
         picker.delegate = self
         
-        // 複数選択可
-        picker.allowsPickingMultipleItems = true
+        // 複数選択不可
+        picker.allowsPickingMultipleItems = false
         
         present(picker, animated: true, completion: nil)
         
     }
     
-    // 前へボタン押下
-    @IBAction func didClickbackMusicBtn(_ sender: Any) {
-        self.player .skipToPreviousItem()
-    }
-    
-    // 次へボタン押下
-    @IBAction func didClickNextMusicBtn(_ sender: Any) {
-        self.player .skipToNextItem()
-    }
 }
 
 // メディア関連処理
