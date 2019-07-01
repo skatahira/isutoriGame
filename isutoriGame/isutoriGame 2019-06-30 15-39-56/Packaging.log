@@ -1,0 +1,137 @@
+2019-06-30 07:39:45 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7fecf4037f30; archive(resolved)='<IDEArchive: 0x7fecf5d9c970>', distributionTask(resolved)='2', distributionDestination(resolved)='1', distributionMethod(resolved)='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fecf57b9ee0>', team(resolved)='<IDEProvisioningDisambiguatableBasicTeam: 0x7fed134da7b0; teamID='VX8DA6RUQ3', teamName='Shunsuke Katahira', teamType='Individual', username='kata-shunh9@i.softbank.jp', isFreeProvisioningTeam='0'>'>
+	Chain (12, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7fecf4037f30; archive = '<IDEArchive: 0x7fecf5d9c970>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fecf57b9ee0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fed134da7b0; teamID='VX8DA6RUQ3', teamName='Shunsuke Katahira', teamType='Individual', username='kata-shunh9@i.softbank.jp', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionProcessingPipelineContext: 0x7fecfab4fbf0; archive = '<IDEArchive: 0x7fecf5d9c970>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fecf57b9ee0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fed134da7b0; teamID='VX8DA6RUQ3', teamName='Shunsuke Katahira', teamType='Individual', username='kata-shunh9@i.softbank.jp', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fecf5d2ddf0; archive = '<IDEArchive: 0x7fecf5d9c970>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fecf57b9ee0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fed134da7b0; teamID='VX8DA6RUQ3', teamName='Shunsuke Katahira', teamType='Individual', username='kata-shunh9@i.softbank.jp', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fecf43661f0; archive = '<IDEArchive: 0x7fecf5d9c970>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fecf57b9ee0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fed134da7b0; teamID='VX8DA6RUQ3', teamName='Shunsuke Katahira', teamType='Individual', username='kata-shunh9@i.softbank.jp', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fecf557a750; archive = '<IDEArchive: 0x7fecf5d9c970>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fecf57b9ee0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fed134da7b0; teamID='VX8DA6RUQ3', teamName='Shunsuke Katahira', teamType='Individual', username='kata-shunh9@i.softbank.jp', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fecf6b84b90; archive = '<IDEArchive: 0x7fecf5d9c970>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fecf57b9ee0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fed134da7b0; teamID='VX8DA6RUQ3', teamName='Shunsuke Katahira', teamType='Individual', username='kata-shunh9@i.softbank.jp', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fecf68efb70; archive = '<IDEArchive: 0x7fecf5d9c970>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fecf57b9ee0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fed134da7b0; teamID='VX8DA6RUQ3', teamName='Shunsuke Katahira', teamType='Individual', username='kata-shunh9@i.softbank.jp', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fecf6807fc0; archive = '<IDEArchive: 0x7fecf5d9c970>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fecf57b9ee0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fed134da7b0; teamID='VX8DA6RUQ3', teamName='Shunsuke Katahira', teamType='Individual', username='kata-shunh9@i.softbank.jp', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fecf55d3f10; archive = '<IDEArchive: 0x7fecf5d9c970>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fecf57b9ee0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fed134da7b0; teamID='VX8DA6RUQ3', teamName='Shunsuke Katahira', teamType='Individual', username='kata-shunh9@i.softbank.jp', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fecf5f80570; archive = '<IDEArchive: 0x7fecf5d9c970>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fecf57b9ee0>', team='(null)'>
+	<IDEDistributionContext: 0x7fecf5cede50; archive = '<IDEArchive: 0x7fecf5d9c970>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fecf57b9ee0>', team='(null)'>
+	<IDEDistributionContext: 0x7fecf6c72d50; archive = '<IDEArchive: 0x7fecf5d9c970>', distributionMethod='(null)', team='(null)'>
+</IDEDistributionProcessingPipelineContext: 0x7fecf4037f30>
+2019-06-30 07:39:45 +0000  Processing step: IDEDistributionCreateDestRootStep
+2019-06-30 07:39:45 +0000  Processing step: IDEDistributionCopyItemStep
+2019-06-30 07:39:45 +0000  Running /usr/bin/ditto '-V' '/Users/katahirashunsuke/Library/Developer/Xcode/Archives/2019-06-30/isutoriGame 2019-06-30 15.33.xcarchive/Products/Applications/isutoriGame.app' '/var/folders/5v/jhvkvr_n24j8zt3xwhgjl_dc0000gn/T/XcodeDistPipeline.~~~QsMi2R/Root/Payload/isutoriGame.app'
+2019-06-30 07:39:45 +0000  >>> Copying /Users/katahirashunsuke/Library/Developer/Xcode/Archives/2019-06-30/isutoriGame 2019-06-30 15.33.xcarchive/Products/Applications/isutoriGame.app 
+2019-06-30 07:39:45 +0000  
+2019-06-30 07:39:45 +0000  copying file ./_CodeSignature/CodeResources ... 
+2019-06-30 07:39:45 +0000  5165 bytes for ./_CodeSignature/CodeResources
+2019-06-30 07:39:45 +0000  copying file ./AppIcon60x60@2x.png ... 
+2019-06-30 07:39:45 +0000  10040 bytes for ./AppIcon60x60@2x.png
+2019-06-30 07:39:45 +0000  copying file ./Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib ... 
+2019-06-30 07:39:45 +0000  983 bytes for ./Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+copying file ./Base.lproj/Main.storyboardc/UIViewController-2Oz-iu-Zca.nib ... 
+2019-06-30 07:39:45 +0000  1279 bytes for ./Base.lproj/Main.storyboardc/UIViewController-2Oz-iu-Zca.nib
+2019-06-30 07:39:45 +0000  copying file ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2019-06-30 07:39:45 +0000  5923 bytes for ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+2019-06-30 07:39:45 +0000  copying file ./Base.lproj/Main.storyboardc/Info.plist ... 
+2019-06-30 07:39:45 +0000  333 bytes for ./Base.lproj/Main.storyboardc/Info.plist
+copying file ./Base.lproj/Main.storyboardc/2Oz-iu-Zca-view-BWn-ws-Uez.nib ... 
+2019-06-30 07:39:45 +0000  2062 bytes for ./Base.lproj/Main.storyboardc/2Oz-iu-Zca-view-BWn-ws-Uez.nib
+2019-06-30 07:39:45 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2019-06-30 07:39:45 +0000  1963 bytes for ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+2019-06-30 07:39:45 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2019-06-30 07:39:45 +0000  832 bytes for ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+2019-06-30 07:39:45 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2019-06-30 07:39:45 +0000  258 bytes for ./Base.lproj/LaunchScreen.storyboardc/Info.plist
+2019-06-30 07:39:45 +0000  copying file ./isutoriGame ... 
+2019-06-30 07:39:45 +0000  208912 bytes for ./isutoriGame
+copying file ./Assets.car ... 
+2019-06-30 07:39:45 +0000  544088 bytes for ./Assets.car
+2019-06-30 07:39:45 +0000  copying file ./AppIcon76x76@2x~ipad.png ... 
+2019-06-30 07:39:45 +0000  12849 bytes for ./AppIcon76x76@2x~ipad.png
+2019-06-30 07:39:45 +0000  copying file ./embedded.mobileprovision ... 
+2019-06-30 07:39:45 +0000  11501 bytes for ./embedded.mobileprovision
+2019-06-30 07:39:45 +0000  copying file ./Info.plist ... 
+2019-06-30 07:39:45 +0000  1409 bytes for ./Info.plist
+copying file ./PkgInfo ... 
+2019-06-30 07:39:45 +0000  8 bytes for ./PkgInfo
+2019-06-30 07:39:45 +0000  /usr/bin/ditto exited with 0
+2019-06-30 07:39:45 +0000  Processing step: IDEDistributionEmbedProfileStep
+2019-06-30 07:39:45 +0000  Processing step: IDEDistributionItemRemovalStep
+2019-06-30 07:39:45 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2019-06-30 07:39:45 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2019-06-30 07:39:45 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2019-06-30 07:39:45 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2019-06-30 07:39:45 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2019-06-30 07:39:45 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2019-06-30 07:39:45 +0000  Running /usr/bin/ditto '-V' '/Users/katahirashunsuke/Library/Developer/Xcode/Archives/2019-06-30/isutoriGame 2019-06-30 15.33.xcarchive/BCSymbolMaps/A81EF300-CFD8-3C09-8CE8-8FAF769F1058.bcsymbolmap' '/var/folders/5v/jhvkvr_n24j8zt3xwhgjl_dc0000gn/T/XcodeDistPipeline.~~~QsMi2R/Root/BCSymbolMaps/A81EF300-CFD8-3C09-8CE8-8FAF769F1058.bcsymbolmap'
+2019-06-30 07:39:45 +0000  >>> Copying /Users/katahirashunsuke/Library/Developer/Xcode/Archives/2019-06-30/isutoriGame 2019-06-30 15.33.xcarchive/BCSymbolMaps/A81EF300-CFD8-3C09-8CE8-8FAF769F1058.bcsymbolmap 
+2019-06-30 07:39:45 +0000  copying file ./A81EF300-CFD8-3C09-8CE8-8FAF769F1058.bcsymbolmap ... 
+2019-06-30 07:39:45 +0000  13639 bytes for ./A81EF300-CFD8-3C09-8CE8-8FAF769F1058.bcsymbolmap
+2019-06-30 07:39:45 +0000  /usr/bin/ditto exited with 0
+2019-06-30 07:39:45 +0000  Processing step: IDEDistributionSymbolsStep
+2019-06-30 07:39:45 +0000  Excluding symbols for isutoriGame.app
+2019-06-30 07:39:45 +0000  Processing step: IDEDistributionCopyAppleProvidedContentStep
+2019-06-30 07:39:45 +0000  Processing step: IDEDistributionAppThinningStep
+2019-06-30 07:39:45 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2019-06-30 07:39:45 +0000  Processing step: IDEDistributionArchThinningStep
+2019-06-30 07:39:45 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/5v/jhvkvr_n24j8zt3xwhgjl_dc0000gn/T/XcodeDistPipeline.~~~QsMi2R/Root/Payload/isutoriGame.app/isutoriGame' '-verify_arch' 'arm64e'
+2019-06-30 07:39:45 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2019-06-30 07:39:45 +0000  Skipping architecture thinning for item "isutoriGame" because arch "arm64e" wasn't found
+2019-06-30 07:39:45 +0000  Processing step: IDEDistributionODRStep
+2019-06-30 07:39:45 +0000  Processing step: IDEDistributionStripXattrsStep
+2019-06-30 07:39:45 +0000  Running /usr/bin/xattr '-crs' '/var/folders/5v/jhvkvr_n24j8zt3xwhgjl_dc0000gn/T/XcodeDistPipeline.~~~QsMi2R/Root/Payload/isutoriGame.app'
+2019-06-30 07:39:46 +0000  /usr/bin/xattr exited with 0
+2019-06-30 07:39:46 +0000  Processing step: IDEDistributionCodesignStep
+2019-06-30 07:39:46 +0000  Entitlements for <IDEDistributionItem: 0x7feceac775f0 'com.skatahira.isutoriGame' '<DVTFilePath:0x7fecf5cf8140:'/Users/katahirashunsuke/Library/Developer/Xcode/Archives/2019-06-30/isutoriGame 2019-06-30 15.33.xcarchive/Products/Applications/isutoriGame.app'>'>: {
+    "application-identifier" = "VX8DA6RUQ3.com.skatahira.isutoriGame";
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = VX8DA6RUQ3;
+    "get-task-allow" = 0;
+    "keychain-access-groups" =     (
+        "VX8DA6RUQ3.com.skatahira.isutoriGame"
+    );
+}
+2019-06-30 07:39:46 +0000  Writing entitlements for <IDEDistributionItem: 0x7feceac775f0 'com.skatahira.isutoriGame' '<DVTFilePath:0x7fecf5cf8140:'/Users/katahirashunsuke/Library/Developer/Xcode/Archives/2019-06-30/isutoriGame 2019-06-30 15.33.xcarchive/Products/Applications/isutoriGame.app'>'> to: /var/folders/5v/jhvkvr_n24j8zt3xwhgjl_dc0000gn/T/XcodeDistPipeline.~~~QsMi2R/entitlements~~~3ix5p5
+2019-06-30 07:39:46 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'E52C9C1D89DFD8A1250150F12AC4D27BD3F99BE1' '--entitlements' '/var/folders/5v/jhvkvr_n24j8zt3xwhgjl_dc0000gn/T/XcodeDistPipeline.~~~QsMi2R/entitlements~~~3ix5p5' '--preserve-metadata=identifier,flags,runtime' '/var/folders/5v/jhvkvr_n24j8zt3xwhgjl_dc0000gn/T/XcodeDistPipeline.~~~QsMi2R/Root/Payload/isutoriGame.app'
+2019-06-30 07:39:46 +0000  /var/folders/5v/jhvkvr_n24j8zt3xwhgjl_dc0000gn/T/XcodeDistPipeline.~~~QsMi2R/Root/Payload/isutoriGame.app: signed app bundle with Mach-O thin (arm64) [com.skatahira.isutoriGame]
+2019-06-30 07:39:46 +0000  /usr/bin/codesign exited with 0
+2019-06-30 07:39:46 +0000  Processing step: IDEDistributionZipODRItemStep
+2019-06-30 07:39:46 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-06-30 07:39:46 +0000  Processing step: IDEDistributionCreateIPAStep
+2019-06-30 07:39:46 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/5v/jhvkvr_n24j8zt3xwhgjl_dc0000gn/T/XcodeDistPipeline.~~~QsMi2R/Root' '/var/folders/5v/jhvkvr_n24j8zt3xwhgjl_dc0000gn/T/XcodeDistPipeline.~~~QsMi2R/Packages/isutoriGame.ipa'
+2019-06-30 07:39:46 +0000  >>> Copying /var/folders/5v/jhvkvr_n24j8zt3xwhgjl_dc0000gn/T/XcodeDistPipeline.~~~QsMi2R/Root 
+2019-06-30 07:39:46 +0000  copying file ./BCSymbolMaps/A81EF300-CFD8-3C09-8CE8-8FAF769F1058.bcsymbolmap ... 
+2019-06-30 07:39:46 +0000  13639 bytes for ./BCSymbolMaps/A81EF300-CFD8-3C09-8CE8-8FAF769F1058.bcsymbolmap
+2019-06-30 07:39:46 +0000  copying file ./Payload/isutoriGame.app/_CodeSignature/CodeResources ... 
+2019-06-30 07:39:46 +0000  5165 bytes for ./Payload/isutoriGame.app/_CodeSignature/CodeResources
+copying file ./Payload/isutoriGame.app/AppIcon60x60@2x.png ... 
+2019-06-30 07:39:46 +0000  10040 bytes for ./Payload/isutoriGame.app/AppIcon60x60@2x.png
+2019-06-30 07:39:46 +0000  copying file ./Payload/isutoriGame.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib ... 
+983 bytes for ./Payload/isutoriGame.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+copying file ./Payload/isutoriGame.app/Base.lproj/Main.storyboardc/UIViewController-2Oz-iu-Zca.nib ... 
+2019-06-30 07:39:46 +0000  1279 bytes for ./Payload/isutoriGame.app/Base.lproj/Main.storyboardc/UIViewController-2Oz-iu-Zca.nib
+copying file ./Payload/isutoriGame.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2019-06-30 07:39:46 +0000  5923 bytes for ./Payload/isutoriGame.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+copying file ./Payload/isutoriGame.app/Base.lproj/Main.storyboardc/Info.plist ... 
+2019-06-30 07:39:46 +0000  333 bytes for ./Payload/isutoriGame.app/Base.lproj/Main.storyboardc/Info.plist
+copying file ./Payload/isutoriGame.app/Base.lproj/Main.storyboardc/2Oz-iu-Zca-view-BWn-ws-Uez.nib ... 
+2062 bytes for ./Payload/isutoriGame.app/Base.lproj/Main.storyboardc/2Oz-iu-Zca-view-BWn-ws-Uez.nib
+2019-06-30 07:39:46 +0000  copying file ./Payload/isutoriGame.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+1963 bytes for ./Payload/isutoriGame.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+copying file ./Payload/isutoriGame.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2019-06-30 07:39:46 +0000  832 bytes for ./Payload/isutoriGame.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+copying file ./Payload/isutoriGame.app/Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+258 bytes for ./Payload/isutoriGame.app/Base.lproj/LaunchScreen.storyboardc/Info.plist
+2019-06-30 07:39:46 +0000  copying file ./Payload/isutoriGame.app/isutoriGame ... 
+2019-06-30 07:39:46 +0000  167744 bytes for ./Payload/isutoriGame.app/isutoriGame
+copying file ./Payload/isutoriGame.app/Assets.car ... 
+2019-06-30 07:39:46 +0000  544088 bytes for ./Payload/isutoriGame.app/Assets.car
+copying file ./Payload/isutoriGame.app/AppIcon76x76@2x~ipad.png ... 
+2019-06-30 07:39:46 +0000  12849 bytes for ./Payload/isutoriGame.app/AppIcon76x76@2x~ipad.png
+2019-06-30 07:39:46 +0000  copying file ./Payload/isutoriGame.app/embedded.mobileprovision ... 
+2019-06-30 07:39:46 +0000  7584 bytes for ./Payload/isutoriGame.app/embedded.mobileprovision
+copying file ./Payload/isutoriGame.app/Info.plist ... 
+2019-06-30 07:39:46 +0000  1409 bytes for ./Payload/isutoriGame.app/Info.plist
+copying file ./Payload/isutoriGame.app/PkgInfo ... 
+8 bytes for ./Payload/isutoriGame.app/PkgInfo
+2019-06-30 07:39:46 +0000  /usr/bin/ditto exited with 0
+2019-06-30 07:39:46 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2019-06-30 07:39:46 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2019-06-30 07:39:46 +0000  Processing step: IDEDistributionCreateManifestStep
+2019-06-30 07:39:46 +0000  Skipping step: IDEDistributionCreateManifestStep because it said so
