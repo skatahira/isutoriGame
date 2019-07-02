@@ -19,10 +19,9 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="firstIcon" translatesAutoresizingMaskIntoConstraints="NO" id="PoR-GV-sXy">
-                                <rect key="frame" x="82" y="323" width="250" height="250"/>
+                                <rect key="frame" x="95" y="336" width="224" height="224"/>
                                 <constraints>
-                                    <constraint firstAttribute="height" constant="250" id="aY5-XW-yMb"/>
-                                    <constraint firstAttribute="width" constant="250" id="mNM-Mp-xSJ"/>
+                                    <constraint firstAttribute="width" secondItem="PoR-GV-sXy" secondAttribute="height" multiplier="1:1" id="6ey-w4-cau"/>
                                 </constraints>
                             </imageView>
                         </subviews>
@@ -30,6 +29,7 @@
                         <constraints>
                             <constraint firstItem="PoR-GV-sXy" firstAttribute="centerX" secondItem="BWn-ws-Uez" secondAttribute="centerX" id="0hH-yk-Gs0"/>
                             <constraint firstItem="PoR-GV-sXy" firstAttribute="centerY" secondItem="BWn-ws-Uez" secondAttribute="centerY" id="U61-xf-Diu"/>
+                            <constraint firstItem="PoR-GV-sXy" firstAttribute="height" secondItem="BWn-ws-Uez" secondAttribute="height" multiplier="0.25" id="nNh-UR-9XO"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="GNA-SZ-XfG"/>
                     </view>
